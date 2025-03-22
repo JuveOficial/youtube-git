@@ -1,0 +1,98 @@
+commit 21eefde31961bd72e9dae6c679b4d78d8884fcf5
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Thu Feb 27 10:47:02 2025 -0600
+
+    Agregando dos parrafos
+
+commit 4df6856c86c4f1bfb0a77979f326c761ef0e0554
+Merge: 4497719 08d3c30
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Thu Feb 27 10:43:18 2025 -0600
+
+    Resolviendo otra ves el conflicto de estaciones del año con fecha de inicio
+
+commit 44977191eec3848cce2040bbd21cc91492b3ce16
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Wed Feb 12 23:45:15 2025 -0600
+
+    Agregando contenido a las estaciones del año con fecha de inicio
+
+commit 08d3c305eefb467a5e4b80ec6cd8ad06e1e24043
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Wed Feb 12 23:45:15 2025 -0600
+
+    Agregando contenido a las estaciones del año
+
+commit 2171df64765ebdad0435a944f8d4d8088523b173
+Merge: 54a7594 8d0967e
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Tue Feb 11 00:27:13 2025 -0600
+
+    Resolviendo conflicto  merge main/html en el documento index.html
+
+commit 8d0967ee7980c4b4dcf4435088b216386d34c96c
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Mon Feb 10 23:49:02 2025 -0600
+
+    Agregando index.js a index.html
+
+commit 54a759451580ec04c95d34bee71587010683c213
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Mon Feb 10 23:37:30 2025 -0600
+
+    Agregando style.css al index.html
+
+commit a7d32e1ba15a0ca5468a7e88164ae83f7445d6f4
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Mon Feb 10 01:04:18 2025 -0600
+
+    Creando index.js
+
+commit 3ee2a1c0ede0a7a01160d42b05538c260d4e433d
+Merge: 3820923 ce743d6
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Mon Feb 10 00:33:53 2025 -0600
+
+    Merge branch 'css'
+
+commit ce743d67d6b47ddc4ea96a25195da1fd7b7ce4b5
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Fri Feb 7 00:30:08 2025 -0600
+
+    Creando style.css
+
+commit 38209230537bcbe7ad33212a02e4dd31ac081f48
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Thu Feb 6 23:52:54 2025 -0600
+
+    Creando index.html
+
+commit e16fd08ebb8e0d52108fcab3634dec76a483ad77
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Sun Nov 10 16:04:23 2024 -0600
+
+    Creando index.html
+
+commit ae1a2934cb2da66e5d99123712210f37ebfba8e0
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Thu Nov 7 23:46:44 2024 -0600
+
+    Ignorando archivos .exe
+
+commit 5730fd8bcc13e7459633e92d0bc5ac0bea000df7
+Author: JuveOficial <137726545+JuveOficial@users.noreply.github.com>
+Date:   Thu Oct 31 23:34:30 2024 -0600
+
+    Creando licencia del repositorio
+
+commit a196c8f75cead1a7cb7469d2a0aa335e812fba5e
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Thu Oct 31 22:25:41 2024 -0600
+
+    Agregando mas contenido al README
+
+commit c58a652615612b0e00721b7251c13b082d7a01e8
+Author: JuveOficial <versionsoftwareoficialpopoca@gmail.com>
+Date:   Tue Oct 29 23:47:26 2024 -0600
+
+    Primer commit
